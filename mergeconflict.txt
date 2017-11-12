@@ -1,5 +1,4 @@
 file to create merge conflict
-edit for 
+edit for newbranch1
 
-fix
-
+new
